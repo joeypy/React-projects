@@ -1,3 +1,6 @@
 [submodule "React-citas-mascotas"]
 	path = React-citas-mascotas
 	url = https://github.com/joeypy/React-citas-mascotas.git
+[submodule "React-budget"]
+	path = React-budget
+	url = https://github.com/joeypy/React-budget.git
